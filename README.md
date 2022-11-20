@@ -24,3 +24,6 @@ In command prompt -
   java ReplacementTest
 ```
 
+## Screenshots
+![image](https://user-images.githubusercontent.com/118497110/202891906-eb410469-60a7-4ab3-b091-e5d789910842.png)
+
